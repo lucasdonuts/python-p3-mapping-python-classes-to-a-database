@@ -1,8 +1,6 @@
 #!/usr/bin/env python3
 
-from . import CONN, CURSOR
-from song import Song
-
+from song import Song, CONN, CURSOR
 
 if __name__ == '__main__':
     import ipdb; ipdb.set_trace()
