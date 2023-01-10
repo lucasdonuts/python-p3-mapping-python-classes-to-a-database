@@ -5,6 +5,7 @@ name = "pypi"
 
 [packages]
 ipdb = "0.13.9"
+pytest = "*"
 
 [requires]
 python_full_version = "3.8.13"
